@@ -38,7 +38,7 @@ const aitor = {
 ### Featured
 
 - **[Applio](https://github.com/iahispano/Applio)** — contributed in 2023. RVC voice conversion, 3.8k stars. Where I learned how big scale open source works.
-- **[Portfolio](https://aitronz.github.io)** — my portfolio, built by hand with Astro.
+- **[Portfolio](https://aitronz.dev)** — my portfolio, built by hand with Astro.
 
 ### Reach me
 
